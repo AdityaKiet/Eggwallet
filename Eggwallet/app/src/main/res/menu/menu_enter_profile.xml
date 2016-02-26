@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.egnese.eggwallet.activities.EnterProfileActivity">
+    <item
+        android:id="@+id/action_skip"
+        android:orderInCategory="100"
+        android:title="SKIP"
+        app:showAsAction="always" />
+</menu>

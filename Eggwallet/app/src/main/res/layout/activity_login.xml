@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/paper"
+    android:id="@+id/llLogin"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_center" />
+
+    <com.egnese.eggwallet.ui.CustomEditText
+        android:id="@+id/etPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:drawableLeft="@mipmap/abc_alpha_et_phone"
+        android:drawablePadding="15dp"
+        android:hint="@string/phone"
+        android:inputType="number"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="#DDAAAAAA"
+        android:textCursorDrawable="@drawable/color_cursor"
+        android:textSize="16sp" />
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <com.egnese.eggwallet.ui.CustomEditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@mipmap/abc_alpha_et_password"
+            android:drawablePadding="15dp"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHint="#DDAAAAAA"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:textSize="16sp">
+
+        </com.egnese.eggwallet.ui.CustomEditText>
+
+        <com.neopixl.pixlui.components.textview.TextView
+            android:id="@+id/txtShowPassword"
+            style="@style/AppTheme.StyledText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/etPassword"
+            android:layout_alignRight="@+id/etPassword"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:paddingBottom="2dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="2dp"
+            android:text="show"
+            android:textColor="@color/hide_text_color" />
+
+    </RelativeLayout>
+
+    <com.neopixl.pixlui.components.textview.TextView
+        android:id="@+id/txtForgotPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="25dp"
+        style="@style/AppTheme.StyledText"
+        android:padding="5dp"
+        android:text="@string/forgot_password"
+        android:textColor="@color/black" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="@drawable/abc_alpha_btn_background"
+            android:text="Login"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+
+</LinearLayout>

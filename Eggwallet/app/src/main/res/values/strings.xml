@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">EggWallet</string>
+    <string name="ok">OK</string>
+    <string name="oops">oops!!</string>
+    <string name="success">Success</string>
+    <string name="profile_updated">Your profile has been successfully updated !!</string>
+    <string name="server_key">AIzaSyBys-tUxhBtPbD0fV78llvzDrSEG_fQ66g</string>
+    <string name="phone">Phone Number</string>
+    <string name="phoneorEmail">Phone Number / Email</string>
+    <string name="referalcode">Referal Code (Optional)</string>
+    <string name="register">Sign Up</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="password">Password</string>
+    <string name="error_message">Some unexpected error has occured.</string>
+    <string name="login">Login</string>
+    <string name="otp">OTP</string>
+    <string name="continue_otp">Continue</string>
+    <string name="agreement_sentence">By registering you agree to Egg Wallet\'s Terms of Service, Privacy Policy and Content Policies</string>
+    <!--GCM Register-->
+
+    <string name="gcm_activity_no_internet">No internet connection found. Please fix your internet connection and try again.
+    </string>
+    <string name="gcm_activity_no_internet_title">Network Error</string>
+
+    <!--LOGIN -->
+ <string name="login_activity_no_internet">No internet connection found. Please fix your internet connection and try again.
+    </string>
+    <string name="login_activity_no_internet_title">Network Error</string>
+    <string name="login_activity_invalid_phone_title">Invalid Phone</string>
+    <string name="login_activity_invalid_phone">Phone number should be 10 digit long.</string>
+    <string name="login_activity_password">Enter Password.</string>
+    <string name="login_activity_invalid_password_title">Invalid Password</string>
+    <string name="login_activity_invalid_password">Password can\'t be blank.</string>
+    <string name="forgot_password">Forgot Password ?</string>
+
+
+    <!--REGISTER -->
+    <string name="register_activity_no_internet">No internet connection found. Please fix your internet connection and try again.
+    </string>
+    <string name="register_activity_no_internet_title">Network Error</string>
+    <string name="register_activity_invalid_phone_title">Invalid Phone</string>
+    <string name="register_activity_invalid_phone">Phone number should be 10 digit long.</string>
+    <string name="register_activity_password">Enter Password.</string>
+    <string name="register_activity_reenter_password">Re-enter password.</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">Enter new Password</string>
+    <string name="confirm_new_password">Re-enter new Password</string>
+
+    <!--CONFIRM OTP -->
+    <string name="confirm_otp_etotp">One Time Password</string>
+    <string name="confirm_otp_auth_error">Error</string>
+    <string name="confirm_otp_diff_password">Password not matched.</string>
+    <string name="confirm_otp_small_password">Password must be 6 characters long.</string>
+    <string name="confirm_otp_resend">Resend OTP</string>
+    <string name="confirm_invalid_otp">OTP must be 6 digits long.</string>
+    <string name="otp_sent">One time password has been sent to your mobile number.Kindly enter the OTP to activate your account.</string>
+
+
+
+    <!-- FORGOT PASSWORD -->
+
+    <string name="forgot_password_message">We\'ll send an OTP to your registered email or mobile using which you will be able to create a new password.</string>
+    <string name="title_activity_profile_update">My Profile</string>
+    <string name="title_activity_change_password">Change Password</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- DRAWER ITEMS -->
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="change_password">Change Password</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_1">Home</string>
+    <string name="nav_item_2">Friends</string>
+    <string name="nav_item_3">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_1</item>
+        <item>@string/nav_item_2</item>
+        <item>@string/nav_item_3</item>
+    </string-array>
+
+</resources>

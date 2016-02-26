@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#363636</color>
+    <color name="primary_dark">#363636</color>
+    <color name="primary_darker">#CB202D</color>
+    <color name="accent">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#7e7e7e</color>
+    <color name="button_bg_dark">#185259</color>
+    <color name="button_bg">#1e656d</color>
+    <color name="hide_text_color">#808080</color>
+    <color name="forgot_password_text_color">#404040</color>
+
+    <color name="black_steel">#080706</color>
+    <color name="paper">#efefef</color>
+    <color name="gold_leaf">#55676A</color>
+    <color name="silver">#303F42</color>
+    <color name="action_light">#1e656d</color>
+
+    <color name="dirtywhite">#E3E3E3</color>
+    <color name="dialog_header_bg">#e1e1e1</color>
+
+    <color name="colorPrimary">#1e656d</color>
+    <color name="colorPrimaryDark">#185259</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="windowBackground">#000000</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#efefef</color>
+    <color name="rippleColor">#ffffff</color>
+    <color name="splash_bg">#234644</color>
+
+</resources>

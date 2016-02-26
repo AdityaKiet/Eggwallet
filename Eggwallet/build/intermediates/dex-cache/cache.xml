@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2acb8f25e91dc79b3e9fe3e4fc059d491756efcd">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-9beb94a4bb1cc4b43c680d2af561cef1df4d0dc8.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-a700a7325230ce2eafc127fb92ab79e756e5bec9.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-7e6622809b917240aada23f7e7f4d7f0ad36d8c7.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0db114dc90b3e192ba48d22421a9c47cfc01f00">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-cc0972f71825b2ac0d88dca40e3f02a1075e2934.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-501c9df16333f515529d806ba3ad9226f9cc4a0c.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/it.neokree/MaterialNavigationDrawer/1.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0640bc34b0f25196f82fe1e707a437bd4a405933">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-56f8a9727322207ab7d67ab0eb35a7f9a776e08c.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zbar/1.8.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="99ec7a15c96670fc376811136c027fbd4dbc26e9">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-f0708ce3546bd52511273256fccd487edda6abb2.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.2.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0573d010bcb1ee874e1c258a31e98ab920e6805f">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-5d91bcdb6e12fe5a1a2013ef1654868426f9bf30.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aba9317bc403d69d8a571c0a72acfe95698a5db0">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-8ddcc71e7e7d332a168bd5977cff473ba989302b.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.andraskindler.parallaxviewpager/parallaxviewpager/0.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c5bc1c74aa5ed829fd4039033f5adaac721d24f">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-0f32e95ae6ee99472bb06208c863aece1635abfc.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-8f0305f1e9ac39e9ceb862817a1e4313b18c922c.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-00031e6974b9194b9ee928f724de8114f8a370aa.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/it.neokree/MaterialNavigationDrawer/1.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0640bc34b0f25196f82fe1e707a437bd4a405933">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-29aff577ac507f714cac395fd2a11d560282941a.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-a62b529c2c40e817dc9200d974d04fc81b18cfcd.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zbar/1.8.3/jars/libs/zbar.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7350ba6ec0fd2beac4e95d75410da582cec5baa">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/zbar-0a55d171479090390aad50c31fb4a364fd160676.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0db114dc90b3e192ba48d22421a9c47cfc01f00">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-1f38bdd12032d7081acc76dbdcf1c337ea90eec9.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-97af87b76d477d6cb889ab8d40600b991b8bacd7.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.github.neopixl/PixlUI/v1.0.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3e490e64161e2f31e26412fd6683ef432663b2aa">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-e9ba9a8cf81192b9a5a8dfb6e693a12ef0b4ef55.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-5aca531b72227c997e9b91510b95ac8de3033c87.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/library-2.4.0-cbb11c58a98dc8dae9c704b44c75a6abcc3fdaf2.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0040be6592cbfbb19a2c1e90a759278795ed2280">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-955ad32ef2268d4e4a342794ab3d9917de2d2505.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-b0eba4a7b7fce3c60839dc956a8cf7bfb62d908c.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0040be6592cbfbb19a2c1e90a759278795ed2280">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-d032b29a2fc57ecc4369186749597ff9b166e444.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-815d990c877992ad86fe7182b9360ffc6f86ec37.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2acb8f25e91dc79b3e9fe3e4fc059d491756efcd">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-207e938acda101624ef910d71bc1333013289c20.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-0412fde6d962f2a71eeb7989e12c750d8b265a8a.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-5669b1949f1672a517bcf1bb20fe2560b8199a84.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aba9317bc403d69d8a571c0a72acfe95698a5db0">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-7b97ed27095f92770b47e9b052a04b7c0ff47d1b.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-20125a6272283b4db99cec28ebfa67dd11a95abd.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-56d4e56dc78722febf7b3e6261371d71d59dfb5d.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-d3ac2d4cbdaebc713f62e32058f43b99f6977d79.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-4a683b24fb9ed91672139826332962f81120f518.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-c8ba40db1ccc2f4b141ca0584e6c4f5e7e83fb05.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-e7281ad379c564510a8ecf6f25bb652c704a1d5e.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zbar/1.8.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="99ec7a15c96670fc376811136c027fbd4dbc26e9">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-672e79f9b742a0aa6eb4b79d0d00a4a860b37068.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-a297785d46c6ec7bec182fa87023dd2e22712d3c.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-bdef2dc9710ecb7d070c9c1d533c416cbd0a82c6.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.2.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0573d010bcb1ee874e1c258a31e98ab920e6805f">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-9ce39cc8ec8744fe16b484ba33a506b574d9fdcf.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-404f9b296c52c1448d8a91b692fa8f73692d5622.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.github.neopixl/PixlUI/v1.0.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3e490e64161e2f31e26412fd6683ef432663b2aa">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-3b7c6edbf2b69333c8fd2d2bfed637a522b8d0eb.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-9af8e3a778a3894d782f851e236a867f7778d7a1.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-155c59622d116cfd00dce5c605ea520129e404f5.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zbar/1.8.3/jars/libs/zbar.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7350ba6ec0fd2beac4e95d75410da582cec5baa">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/zbar-c41e070a46c8a39a36d7e860872c91fab41a149b.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-547f1ddd715096ff1766ec82610eb5d51b308ad5.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-d84c2a07f29e596041b653558f0d78339d11b47b.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-52482c55a1f0e1bc91ef67f622f5cd0e9ad6e6a6.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-aedba3c11f27cd6b168468380d9247af3581e3dc.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/libs/gcm.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/gcm-3bada2f96b4a154797fa9277203e2e1cabc50d1f.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-9299a27c9d46229a609a94be38ac95f8cb8bc81c.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-132ffef53e6551fdc54083866cf25f145b15b5cc.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-8813a7638f299e1f9c5d3b31cf19b0b8c01d442c.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-435c6780619b01630077d398900074bc0025b50b.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/gson-2.3-72bfb1a0ab2bf1b53425976a65f33960b402ba35.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/adityaagrawal/Desktop/Android/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-949d85c9c15899bfadc11a090136792922098e51.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.andraskindler.parallaxviewpager/parallaxviewpager/0.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c5bc1c74aa5ed829fd4039033f5adaac721d24f">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-a0587884607b9817ea7f04d29195237bf90f9cf4.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/libs/gcm.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/gcm-9deb38983d0f60ed9005afae281ea490ede8c269.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-fe5b6f7f02b5850a59c5333c499410e74f4f8f09.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-a0debd389ef42b83a903e0e0a0dbb6b4d0513eba.jar" />
+    </item>
+    <item
+        jar="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/adityaagrawal/Desktop/AndroidProjects/EggWallet2/app/build/intermediates/pre-dexed/debug/classes-09d3c21b113b4d890dacc72cccc8138ab92c12f3.jar" />
+    </item>
+
+</items>

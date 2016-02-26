@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/splash_bg"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <com.andraskindler.parallaxviewpager.ParallaxViewPager
+        android:id="@+id/pager"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/circleIndicatorAppInfo"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_weight="0.85"/>
+
+    <ImageView
+        android:id="@+id/circleIndicatorAppInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayoutAppInfoButtons"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:layout_weight="0.05"
+        android:gravity="center"
+        android:src="@mipmap/loader_1" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutAppInfoButtons"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <Button
+            android:id="@+id/btnLogin"
+            style="@style/AppTheme.StyledText"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:background="@drawable/abc_alpha_btn_background"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="@string/login"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:textStyle="normal" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent" />
+
+        <Button
+            android:id="@+id/btnRegister"
+            style="@style/AppTheme.StyledText"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:background="@drawable/abc_alpha_btn_background"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="@string/register"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:textStyle="normal" />
+    </LinearLayout>
+
+</RelativeLayout>

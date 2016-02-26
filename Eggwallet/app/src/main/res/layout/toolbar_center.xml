@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:elevation="6dp"
+    android:background="@color/action_light"
+    android:minHeight="?attr/actionBarSize">
+
+
+    <com.neopixl.pixlui.components.textview.TextView
+        android:id="@+id/toolbarTitle"
+        android:layout_width="wrap_content"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        style="@style/AppTheme.StyledText"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:text="Toolbar Title" />
+
+
+</android.support.v7.widget.Toolbar>

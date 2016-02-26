@@ -1,0 +1,148 @@
+<resources>
+
+    <declare-styleable name="PagerIndicator">
+        <attr name="visibility" format="enum">
+            <enum name="visible" value="0" />
+            <enum name="invisible" value="1" />
+        </attr>
+        <attr name="shape" format="enum">
+            <enum name="oval" value="0" />
+            <enum name="rect" value="1" />
+        </attr>
+        <attr name="selected_color" format="color" />
+        <attr name="unselected_color" format="color" />
+        <attr name="selected_drawable" format="reference" />
+        <attr name="unselected_drawable" format="reference" />
+        <attr name="selected_width" format="dimension" />
+        <attr name="selected_height" format="dimension" />
+        <attr name="unselected_width" format="dimension" />
+        <attr name="unselected_height" format="dimension" />
+        <attr name="padding_left" format="dimension" />
+        <attr name="padding_right" format="dimension" />
+        <attr name="padding_top" format="dimension" />
+        <attr name="padding_bottom" format="dimension" />
+        <attr name="selected_padding_left" format="dimension" />
+        <attr name="selected_padding_right" format="dimension" />
+        <attr name="selected_padding_top" format="dimension" />
+        <attr name="selected_padding_bottom" format="dimension" />
+        <attr name="unselected_padding_left" format="dimension" />
+        <attr name="unselected_padding_right" format="dimension" />
+        <attr name="unselected_padding_top" format="dimension" />
+        <attr name="unselected_padding_bottom" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="SliderLayout">
+        <attr name="indicator_visibility" format="enum">
+            <enum name="visible" value="0" />
+            <enum name="invisible" value="1" />
+        </attr>
+        <attr name="auto_cycle" format="boolean" />
+        <attr name="pager_animation" format="enum">
+            <enum name="Default" value="0" />
+            <enum name="Accordion" value="1" />
+            <enum name="Background2Foreground" value="2" />
+            <enum name="CubeIn" value="3" />
+            <enum name="DepthPage" value="4" />
+            <enum name="Fade" value="5" />
+            <enum name="FlipHorizontal" value="6" />
+            <enum name="FlipPage" value="7" />
+            <enum name="Foreground2Background" value="8" />
+            <enum name="RotateDown" value="9" />
+            <enum name="RotateUp" value="10" />
+            <enum name="Stack" value="11" />
+            <enum name="Tablet" value="12" />
+            <enum name="ZoomIn" value="13" />
+            <enum name="ZoomOutSlide" value="14" />
+            <enum name="ZoomOut" value="15" />
+        </attr>
+        <attr name="pager_animation_span" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="Themes">
+        <attr name="SliderStyle" format="reference" />
+        <attr name="PagerIndicatorStyle" format="reference" />
+    </declare-styleable>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="MyMaterialTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:textViewStyle">@style/theme_textview_style</item>
+        <item name="android:editTextStyle">@style/EditTextStyle</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+
+
+    <style name="AccountsLight" parent="MaterialNavigationDrawerTheme.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="AndroidImageSlider_Attractive_Rect_Black">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="shape">oval</item>
+        <item name="padding_left">3dp</item>
+        <item name="padding_right">3dp</item>
+        <item name="padding_top">4dp</item>
+        <item name="padding_bottom">4dp</item>
+
+        <item name="selected_color">@android:color/white</item>
+        <item name="unselected_color">@android:color/black</item>
+        <item name="selected_width">13dp</item>
+        <item name="selected_height">4dp</item>
+        <item name="unselected_width">13dp</item>
+        <item name="unselected_height">4dp</item>
+    </style>
+
+    <style name="AppTheme.StyledText">
+        <item name="typeface">LatoLatin-Regular.ttf</item>
+    </style>
+
+    <style name="AppTheme.StyledText.Bold">
+        <item name="typeface">LatoLatin-Regular.ttf</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="RobotoTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="colorControlNormal">@color/black</item>
+        <item name="colorControlActivated">@color/black</item>
+        <item name="colorControlHighlight">@color/black</item>
+    </style>
+
+    <style name="Theme_Dialog" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="Dashboard.Theme" parent="MyMaterialTheme.Base">
+
+    </style>
+
+    <style name="MyMaterialTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
